@@ -44,7 +44,7 @@ We’re evolving TasksMind into **autonomous agents** that can:
 
 ---
 
-## 📈 GitHub Snapshot
+## 📈 GitHub Snapshot (My Repo Is Private)
 ![Vatsal's GitHub stats](https://github-readme-stats.vercel.app/api?username=VatsalPandya47&show_icons=true&theme=radical)
 
 ---
